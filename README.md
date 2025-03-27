@@ -1,8 +1,8 @@
 # ESPtris
 Tetris for ESP8266/OLED SSD1306
 # Buttons
-TX - Button left<br>
-RX - Button right<br>
-D3 - Button down<br>
-D4 - Rotate<br>
+TX(GPIO1) - Button left<br>
+RX(GPIO3) - Button right<br>
+D3(GPIO0) - Button down<br>
+D4(GPIO2) - Rotate<br>
 
