@@ -9,4 +9,4 @@ D4(GPIO2) - Rotate<br>
 # OLED SSD1306 128x64
 D2(GPIO4) - SDA<br>
 D1(GPIO5) - SCK<br>
-<img src="(https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/05/ESP8266-NodeMCU-kit-12-E-pinout-gpio-pin.png?quality=100&strip=all&ssl=1)">
+<img src="https://myrobot.ru/wiki/uploads/Experiences/nodemcu_v3_pinout.png">
