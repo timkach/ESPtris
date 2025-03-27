@@ -8,3 +8,4 @@ D4(GPIO2) - Rotate<br>
 # OLED SSD1306 128x64
 D2(GPIO4) - SDA<br>
 D1(GPIO5) - SCK<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
