@@ -9,4 +9,6 @@ D4(GPIO2) - Rotate<br>
 # OLED SSD1306 128x64
 D2(GPIO4) - SDA<br>
 D1(GPIO5) - SCK<br>
+<br>
 <img src="https://myrobot.ru/wiki/uploads/Experiences/nodemcu_v3_pinout.png">
+<p>Image from myrobot.ru</p>
